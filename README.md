@@ -12,4 +12,4 @@ If you can't view the Collab notebook directly from Github, you can use https://
 
 ## Grayscale image coloring
 
-![shepards](/exports/shepards-monkey.png)
+![shepards](/coloring.png)
