@@ -1,5 +1,5 @@
 # IMP-styleGAN
-StyleGAN-1 based image deblurring and colorizing tools
+StyleGAN-1 based image deblurring and colorizing tools based on https://arxiv.org/abs/1906.11880
 
 If you can't view the Collab notebook directly from Github, you can use https://nbviewer.jupyter.org/github/tGhattas/IMP-styleGAN/blob/main/AdaptedStyleGAN.ipynb
 
